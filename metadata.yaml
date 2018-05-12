@@ -1,0 +1,29 @@
+_repo: The-Old-Tobacco-ShopA-True-Account-of-What-Befell-a-Little-Boy-in-Search-of-Adventure_26977
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26977-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Bowen, William
+    birthdate: 1877
+    deathdate: 1937
+    gutenberg_agent_id: '32382'
+    url: http://www.gutenberg.org/2009/agents/32382
+description: Newbery Honor recipient, 1922.
+gutenberg_issued: '2008-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26977'
+  lccn: '21018318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+title: 'The Old Tobacco Shop
+
+  A True Account of What Befell a Little Boy in Search of Adventure'
+url: http://www.gutenberg.org/ebooks/26977
